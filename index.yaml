@@ -1,0 +1,18 @@
+apiVersion: v1
+entries:
+  vault-secrets-operator:
+  - apiVersion: v1
+    appVersion: 1.14.5
+    created: "2021-06-16T14:15:40.545117-07:00"
+    description: Create Kubernetes secrets from Vault for a secure GitOps based workflow.
+    digest: 736e19e932e5dc078e2adba5df3cd612308430ce6792977e4b2d4aa51924d1f3
+    home: https://github.com/ricoberger/vault-secrets-operator
+    icon: https://raw.githubusercontent.com/ricoberger/vault-secrets-operator/master/assets/logo.png
+    maintainers:
+    - name: Rico Berger
+      url: https://ricoberger.de
+    name: vault-secrets-operator
+    urls:
+    - https://jaredallard.me/helm-charts/vault-secrets-operator-1.14.5.tgz
+    version: 1.14.5
+generated: "2021-06-16T14:15:40.544193-07:00"

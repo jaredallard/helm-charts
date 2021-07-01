@@ -3,7 +3,7 @@ entries:
   mariadb:
   - apiVersion: v2
     appVersion: 10.5.10
-    created: "2021-07-01T11:51:19.012851-07:00"
+    created: "2021-07-01T13:59:09.477886-07:00"
     description: A Helm chart for MariaDB on Kubernetes
     digest: 0ecbe3c8fe8cc6d496196ce7befb2ae922c5e96ee7bf4f304a67d54f77aeb236
     maintainers:
@@ -16,20 +16,20 @@ entries:
   rabbitmq:
   - apiVersion: v2
     appVersion: 3.8.18
-    created: "2021-07-01T11:51:19.013642-07:00"
+    created: "2021-07-01T13:59:09.478471-07:00"
     description: A Helm chart for a RabbitMQ cluster on Kubernetes
-    digest: 1b1e5f0863748372f41d22fcd3263917be0918609dae3b91cf839f96fc828879
+    digest: 77df40369ced363b2220430231e3e30d3e51f4fdaf6459fe8e8f71d4a008c33e
     maintainers:
     - name: groundhog2k
     name: rabbitmq
     type: application
     urls:
-    - https://jaredallard.me/helm-charts/rabbitmq-0.3.0.tgz
-    version: 0.3.0
+    - https://jaredallard.me/helm-charts/rabbitmq-0.3.1.tgz
+    version: 0.3.1
   vault-secrets-operator:
   - apiVersion: v1
     appVersion: 1.14.5
-    created: "2021-07-01T11:51:19.014274-07:00"
+    created: "2021-07-01T13:59:09.479964-07:00"
     description: Create Kubernetes secrets from Vault for a secure GitOps based workflow.
     digest: 736e19e932e5dc078e2adba5df3cd612308430ce6792977e4b2d4aa51924d1f3
     home: https://github.com/ricoberger/vault-secrets-operator
@@ -41,4 +41,4 @@ entries:
     urls:
     - https://jaredallard.me/helm-charts/vault-secrets-operator-1.14.5.tgz
     version: 1.14.5
-generated: "2021-07-01T11:51:19.011411-07:00"
+generated: "2021-07-01T13:59:09.476787-07:00"
